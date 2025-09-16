@@ -1,9 +1,10 @@
 import React from 'react'
+import TodDoList from './ToDo/TodDoList'
 
 const App = () => {
   return (
     <div>
-      TTTT
+      <TodDoList/>
     </div>
   )
 }
